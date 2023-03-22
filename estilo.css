@@ -3,7 +3,13 @@
   font-size: 1.3rem;
 }
 .font-filme {
-  font-size: 1.2rem;
+  font-size: 1.25rem;
+}
+.font-accordion {
+  font-size: 1.25rem;
+  text-transform: uppercase;
+  font-weight: 400;
+  color: #fff;
 }
 #logo{
   max-width: 960px;
